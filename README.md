@@ -7,7 +7,6 @@
   - [Screenshot](#screenshot)
   - [Links](#links)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
 ## Overview
 
